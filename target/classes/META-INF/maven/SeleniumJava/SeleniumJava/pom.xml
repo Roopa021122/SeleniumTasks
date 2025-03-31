@@ -13,9 +13,14 @@
     <artifactId>webdrivermanager</artifactId>
     <version>5.9.3</version>
 </dependency>
- 
- 
- 
+
+
+
+ 	<dependency>
+ 		<groupId>MavenExcelReading</groupId>
+ 		<artifactId>MavenExcelReading</artifactId>
+ 		<version>0.0.1-SNAPSHOT</version>
+ 	</dependency>
  </dependencies>
   <version>0.0.1-SNAPSHOT</version>
 </project>
